@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="driver.cpp" />
+    <ClCompile Include="infix2postfix.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,6 +18,9 @@
     <ClCompile Include="driver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="infix2postfix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="infix2postfix.h">
